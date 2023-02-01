@@ -1,0 +1,14 @@
+body ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    background-color: black;
+    color: red;
+}
+
+li.classe {
+    background-color: red;
+    color: black;
+}
